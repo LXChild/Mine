@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="greeter.GreetingFormatterSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-09-26T06:03:42" hostname="DESKTOP-825PJRQ" time="0.087">
+  <properties/>
+  <testcase name="Creating a greeting" classname="greeter.GreetingFormatterSpec" time="0.087"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

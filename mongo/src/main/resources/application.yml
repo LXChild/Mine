@@ -1,0 +1,3 @@
+spring:
+  data:
+    mongodb.uri: mongodb://chong:1092982300@10.10.36.75:27017/mine

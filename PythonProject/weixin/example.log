@@ -1,0 +1,10 @@
+Thu, 17 Aug 2017 11:56:08 weixin.py[line:54] INFO 正在调用脚本weixin.py, 向部门ID为3, 企业应用为1000004, 的组员发送消息。具体内容为������Ϣ
+Thu, 17 Aug 2017 11:59:01 weixin.py[line:53] INFO 正在调用脚本weixin.py, 向部门ID为3, 企业应用为1000004, 的组员发送消息。具体内容为������Ϣ
+Thu, 17 Aug 2017 12:06:39 weixin.py[line:53] INFO 正在调用脚本weixin.py, 向部门ID为3, 企业应用为1000004, 的组员发送消息。具体内容为������Ϣ
+Thu, 17 Aug 2017 12:09:04 weixin.py[line:53] INFO 正在调用脚本weixin.py, 向部门ID为3, 企业应用为1000004, 的组员发送消息。具体内容为������Ϣ
+Thu, 17 Aug 2017 14:41:56 weixin.py[line:52] INFO 正在调用脚本weixin.py, 向部门ID为3, 企业应用为1000004, 的组员发送消息。具体内容为������Ϣ
+Thu, 17 Aug 2017 14:41:56 connectionpool.py[line:824] DEBUG Starting new HTTPS connection (1): qyapi.weixin.qq.com
+Thu, 17 Aug 2017 14:41:57 connectionpool.py[line:396] DEBUG https://qyapi.weixin.qq.com:443 "POST /cgi-bin/gettoken?corpid=wx5f1e4e13b55e3a64&corpsecret=RodPpVGNrsOrYLZHAetxAhbIOvlOjQExsSdp77PDZUY HTTP/1.1" 200 362
+Thu, 17 Aug 2017 14:41:57 connectionpool.py[line:824] DEBUG Starting new HTTPS connection (1): qyapi.weixin.qq.com
+Thu, 17 Aug 2017 14:41:57 connectionpool.py[line:396] DEBUG https://qyapi.weixin.qq.com:443 "POST /cgi-bin/message/send?access_token=yvn5xCf4f9kV6i8VMAPJg8QKBGiaDXpNqyI18Z6-SxRRs8ZKQTAa-4r0A1WDXF0mbcNYULaKooAxM6gy2qAveKHlUiv-z-JUZWHVfBngTQA741nyxcEyUJeSpet67tVjU7rYUCYsejrdAbep4J2h-UWwjdIUcqIcptceoZXAk7tBBdLxLLhtwUbFuJtbYKiRjacL3t-nqzzUeCME8PHYa44H1xQHhJEcfc2A0BoEjXDbVm4DLScdSlS3IjOlxkeBdSFA9C6RijJMUzxY9DxQbMHfC39FA2pfWuYid5sQJ5c HTTP/1.1" 200 44
+Thu, 17 Aug 2017 16:46:29 weixin.py[line:52] INFO 正在调用脚本weixin.py, 向部门ID为3, 企业应用为1000004的组员发送消息。具体内容为������Ϣ

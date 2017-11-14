@@ -1,0 +1,7 @@
+
+Psquid:S1481"/Remove this unused "testStirng" local variable.(ªåº¬üÿÿÿÿ8ã˜Æñ×+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãåðÇ8áÞÅñ×+
+_squid:S1854">Remove this useless assignment to local variable "testStirng".(ªåº¬üÿÿÿÿ8ã˜Æñ×+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÊÄòŸ8ã˜Æñ×+
+1squid:S1220""Move this file to a named package.

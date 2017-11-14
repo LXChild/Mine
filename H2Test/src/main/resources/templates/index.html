@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <title>DatePicker</title>
+
+    <!-- Bootstrap -->
+    <link th:href="@{css/bootstrap.min.css}" rel="stylesheet"/>
+    <!-- Font Awesome -->
+    <link  th:href="@{css/font-awesome.min.css}" rel="stylesheet"/>
+    <!-- bootstrap-daterangepicker -->
+    <link th:href="@{css/daterangepicker.css}" rel="stylesheet"/>
+    <!-- Custom Theme Style -->
+    <link th:href="@{css/custom.min.css}" rel="stylesheet"/>
+
+
+    <!-- jQuery -->
+    <script th:src="@{js/jquery.min.js}"></script>
+    <!-- Bootstrap -->
+    <script th:src="@{js/bootstrap.min.js}"></script>
+    <!-- bootstrap-daterangepicker -->
+    <script th:src="@{js/moment.min.js}"></script>
+    <script th:src="@{js/daterangepicker.js}"></script>
+    <!-- Custom Theme Scripts -->
+    <script th:src="@{js/custom.min.js}"></script>
+    <!-- Custom DateRangePicker Option -->
+    <script th:src="@{js/daterangepicker.mine.js}"></script>
+</head>
+<body>
+<h1>Date Picker</h1>
+
+<div id="reportrange" class="pull-right" style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc">
+    <i class="glyphicon glyphicon-calendar fa fa-calendar"></i>
+    <span>December 30, 2014 - January 28, 2015</span> <b class="caret"></b>
+</div>
+
+</body>
+</html>

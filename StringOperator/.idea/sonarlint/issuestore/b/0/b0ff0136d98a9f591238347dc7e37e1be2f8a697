@@ -1,0 +1,8 @@
+
+1squid:S1220""Move this file to a named package.
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ûØÌà
+Ysquid:S2147"DCombine this catch with the one at line 85, which has the same body.(ï­£Ä
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òÛëÏ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

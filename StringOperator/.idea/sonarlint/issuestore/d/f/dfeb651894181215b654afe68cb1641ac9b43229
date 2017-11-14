@@ -1,0 +1,24 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(è•Ã”
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊúÉô8œÉ©©ù+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(©Åâãşÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(ÅÇâÕÿÿÿÿÿ
+Hsquid:S2095"3Close this "FileInputStream" in a "finally" clause.(äÿ³
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+U
+squid:S899"BDo something with the "boolean" value returned by "createNewFile".(¦íÀ
+Nsquid:S2095"4Close this "FileOutputStream" in a "finally" clause.(€ı«ìÿÿÿÿÿ
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨ş®Ëûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(À¦è¼şÿÿÿÿ
+Hsquid:S2095"3Close this "FileInputStream" in a "finally" clause.(ã­¶°
